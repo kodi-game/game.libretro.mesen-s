@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="30000">
+		<setting label="30001" type="select" id="mesen-s_ntsc_filter" values="Disabled|Composite (Blargg)|S-Video (Blargg)|RGB (Blargg)|Monochrome (Blargg)" default="Disabled"/>
+		<setting label="30002" type="select" id="mesen-s_region" values="Auto|NTSC|PAL" default="Auto"/>
+		<setting label="30003" type="select" id="mesen-s_gbmodel" values="Auto|Game Boy|Game Boy Color|Super Game Boy" default="Auto"/>
+		<setting label="30004" type="select" id="mesen-s_sgb2" values="enabled|disabled" default="enabled"/>
+		<setting label="30005" type="select" id="mesen-s_overscan_vertical" values="None|8px|16px" default="None"/>
+		<setting label="30006" type="select" id="mesen-s_overscan_horizontal" values="None|8px|16px" default="None"/>
+		<setting label="30007" type="select" id="mesen-s_aspect_ratio" values="Auto|No Stretching|NTSC|PAL|4:3|16:9" default="Auto"/>
+		<setting label="30008" type="select" id="mesen-s_blend_high_res" values="disabled|enabled" default="disabled"/>
+		<setting label="30009" type="select" id="mesen-s_cubic_interpolation" values="disabled|enabled" default="disabled"/>
+		<setting label="30010" type="select" id="mesen-s_overclock" values="None|Low|Medium|High|Very High" default="None"/>
+		<setting label="30011" type="select" id="mesen-s_overclock_type" values="Before NMI|After NMI" default="Before NMI"/>
+		<setting label="30012" type="select" id="mesen-s_superfx_overclock" values="100%|200%|300%|400%|500%|1000%" default="100%"/>
+		<setting label="30013" type="select" id="mesen-s_ramstate" values="Random Values (Default)|All 0s|All 1s" default="Random Values (Default)"/>
+		<setting label="30014" type="select" id="mesen-s_hle_coprocessor" values="disabled|enabled" default="disabled"/>
+	</category>
+</settings>
