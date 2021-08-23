@@ -17,6 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.7.1\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S) 0.4.0"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Mesen-S is a cross-platform SNES emulator for Windows and Linux built in C++ and C#.
+
+Supported files: .sfc, .smc, .fig, .swc, .gb, .gbc, .bs"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Ajustes"
