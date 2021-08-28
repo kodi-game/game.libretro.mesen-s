@@ -17,6 +17,9 @@
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mesen-s</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Nintendo - SNES / SFC / Game Boy / Color (Mesen-S) 0.4.0</summary>
 		<description lang="en_GB">Mesen-S is a cross-platform SNES emulator for Windows and Linux built in C++ and C#.</description>
 	</extension>
