@@ -24,6 +24,7 @@
 		<summary lang="en_GB">Nintendo - SNES / SFC / Game Boy / Color (Mesen-S) 0.4.0</summary>
 		<description lang="da_DK">Mesen-S er en SNES-emulator på tværs af platforme til Windows og Linux, der er bygget i C++ og C#.</description>
 		<description lang="en_GB">Mesen-S is a cross-platform SNES emulator for Windows and Linux built in C++ and C#.</description>
+		<description lang="it_IT">Mesen-S è un emulatore SNES multipiattaforma per Windows e Linux costruito in C++ e C#.</description>
 		<description lang="zh_CN">Mesen-S 是一个以 C++ 和 C# 创建的用于 Windows 和 Linux 的跨平台 SNES 模拟器。</description>
 	</extension>
 </addon>
