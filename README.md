@@ -13,7 +13,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.mesen-s/resources/icon.png)
+![Nintendo - SNES / SFC / Game Boy / Color (Mesen-S) icon](game.libretro.mesen-s/resources/icon.png)
 
 ### Fanart
 
