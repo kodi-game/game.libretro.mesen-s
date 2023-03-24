@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S) 0.4.0"
+msgid "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)"
 msgstr ""
 
 msgctxt "Addon Description"
