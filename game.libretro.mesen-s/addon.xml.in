@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mesen-s"
 		name="Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)"
-		version="0.4.0.11"
+		version="0.4.0.12"
 		provider-name="M. Bibaud (aka Sour)">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
