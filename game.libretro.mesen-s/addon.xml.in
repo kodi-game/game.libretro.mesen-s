@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">Nintendo - SNES / SFC / Game Boy / Farve (Mesen-S)</summary>
 		<summary lang="en_GB">Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)</summary>
 		<description lang="da_DK">Mesen-S er en SNES-emulator på tværs af platforme til Windows og Linux, der er bygget i C++ og C#.</description>
