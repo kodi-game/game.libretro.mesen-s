@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="mesen-s_ntsc_filter" values="Disabled|Composite (Blargg)|S-Video (Blargg)|RGB (Blargg)|Monochrome (Blargg)" default="Disabled"/>
 		<setting label="30002" type="select" id="mesen-s_region" values="Auto|NTSC|PAL" default="Auto"/>
 		<setting label="30003" type="select" id="mesen-s_gbmodel" values="Auto|Game Boy|Game Boy Color|Super Game Boy" default="Auto"/>

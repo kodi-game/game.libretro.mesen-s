@@ -24,9 +24,7 @@ msgctxt "Addon Description"
 msgid "Mesen-S is a cross-platform SNES emulator for Windows and Linux built in C++ and C#."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
+# Empty string with ID 30000
 
 msgctxt "#30001"
 msgid "NTSC filter"
