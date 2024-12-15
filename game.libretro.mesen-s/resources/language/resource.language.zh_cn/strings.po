@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Mesen-S is a cross-platform SNES emulator for Windows and Linux built in C++ and C#."
 msgstr "Mesen-S 是一个以 C++ 和 C# 创建的用于 Windows 和 Linux 的跨平台 SNES 模拟器。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "NTSC filter"
 msgstr "NTSC 滤波器"
@@ -84,3 +80,7 @@ msgstr "RAM 的默认通电状态"
 msgctxt "#30014"
 msgid "Use HLE coprocessor emulation"
 msgstr "使用 HLE 协处理器仿真"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
