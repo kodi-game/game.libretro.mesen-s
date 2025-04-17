@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mesen-s\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-06-03 20:20i\n"
-"PO-Revision-Date: 2025-04-14 08:16+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mesen-s/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)"
@@ -35,51 +35,58 @@ msgstr "Region"
 
 msgctxt "#30003"
 msgid "Game Boy Model"
-msgstr ""
+msgstr "Game Boy-modell"
 
 msgctxt "#30004"
 msgid "Use SGB2"
-msgstr ""
+msgstr "Använd SGB2"
 
 msgctxt "#30005"
 msgid "Vertical Overscan"
-msgstr ""
+msgstr "Vertikal överskanning"
 
+#, fuzzy
 msgctxt "#30006"
 msgid "Horizontal Overscan"
-msgstr ""
+msgstr "Horisontell överskanning"
 
 msgctxt "#30007"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Bildförhållande"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Blend Hi-Res Modes"
-msgstr ""
+msgstr "Blanda Hi-Res-lägen"
 
+#, fuzzy
 msgctxt "#30009"
 msgid "Cubic Interpolation (Audio)"
-msgstr ""
+msgstr "Kubisk interpolation (ljud)"
 
 msgctxt "#30010"
 msgid "Overclock"
-msgstr ""
+msgstr "Överklockning"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Overclock Type"
-msgstr ""
+msgstr "Typ av överklockning"
 
+#, fuzzy
 msgctxt "#30012"
 msgid "Super FX Clock Speed"
-msgstr ""
+msgstr "Super FX Klockhastighet"
 
+#, fuzzy
 msgctxt "#30013"
 msgid "Default power-on state for RAM"
-msgstr ""
+msgstr "Standardtillstånd för påslagning av RAM"
 
+#, fuzzy
 msgctxt "#30014"
 msgid "Use HLE coprocessor emulation"
-msgstr ""
+msgstr "Använd HLE coprocessor-emulering"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
