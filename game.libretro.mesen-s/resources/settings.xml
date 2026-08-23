@@ -8,7 +8,7 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
+							<option label="13106">Disabled</option>
 							<option>Composite (Blargg)</option>
 							<option>S-Video (Blargg)</option>
 							<option>RGB (Blargg)</option>
@@ -22,7 +22,7 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
+							<option label="16316">Auto</option>
 							<option>NTSC</option>
 							<option>PAL</option>
 						</options>
@@ -34,7 +34,7 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
+							<option label="16316">Auto</option>
 							<option>Game Boy</option>
 							<option>Game Boy Color</option>
 							<option>Super Game Boy</option>
@@ -47,8 +47,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>enabled</option>
-							<option>disabled</option>
+							<option label="305">enabled</option>
+							<option label="13106">disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -58,7 +58,7 @@
 					<default>None</default>
 					<constraints>
 						<options>
-							<option>None</option>
+							<option label="231">None</option>
 							<option>8px</option>
 							<option>16px</option>
 						</options>
@@ -70,7 +70,7 @@
 					<default>None</default>
 					<constraints>
 						<options>
-							<option>None</option>
+							<option label="231">None</option>
 							<option>8px</option>
 							<option>16px</option>
 						</options>
@@ -82,7 +82,7 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
+							<option label="16316">Auto</option>
 							<option>No Stretching</option>
 							<option>NTSC</option>
 							<option>PAL</option>
@@ -97,8 +97,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -108,8 +108,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -119,7 +119,7 @@
 					<default>None</default>
 					<constraints>
 						<options>
-							<option>None</option>
+							<option label="231">None</option>
 							<option>Low</option>
 							<option>Medium</option>
 							<option>High</option>
@@ -171,8 +171,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
