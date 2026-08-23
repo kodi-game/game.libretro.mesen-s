@@ -9,10 +9,10 @@
 					<constraints>
 						<options>
 							<option label="13106">Disabled</option>
-							<option>Composite (Blargg)</option>
-							<option>S-Video (Blargg)</option>
-							<option>RGB (Blargg)</option>
-							<option>Monochrome (Blargg)</option>
+							<option label="30015">Composite (Blargg)</option>
+							<option label="30016">S-Video (Blargg)</option>
+							<option label="30017">RGB (Blargg)</option>
+							<option label="30018">Monochrome (Blargg)</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -23,8 +23,8 @@
 					<constraints>
 						<options>
 							<option label="16316">Auto</option>
-							<option>NTSC</option>
-							<option>PAL</option>
+							<option label="30019">NTSC</option>
+							<option label="30020">PAL</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -35,9 +35,9 @@
 					<constraints>
 						<options>
 							<option label="16316">Auto</option>
-							<option>Game Boy</option>
-							<option>Game Boy Color</option>
-							<option>Super Game Boy</option>
+							<option label="30021">Game Boy</option>
+							<option label="30022">Game Boy Color</option>
+							<option label="30023">Super Game Boy</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -59,8 +59,8 @@
 					<constraints>
 						<options>
 							<option label="231">None</option>
-							<option>8px</option>
-							<option>16px</option>
+							<option label="30024">8px</option>
+							<option label="30025">16px</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -71,8 +71,8 @@
 					<constraints>
 						<options>
 							<option label="231">None</option>
-							<option>8px</option>
-							<option>16px</option>
+							<option label="30024">8px</option>
+							<option label="30025">16px</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -83,11 +83,11 @@
 					<constraints>
 						<options>
 							<option label="16316">Auto</option>
-							<option>No Stretching</option>
-							<option>NTSC</option>
-							<option>PAL</option>
-							<option>4:3</option>
-							<option>16:9</option>
+							<option label="30026">No Stretching</option>
+							<option label="30019">NTSC</option>
+							<option label="30020">PAL</option>
+							<option label="30027">4:3</option>
+							<option label="30028">16:9</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -120,10 +120,10 @@
 					<constraints>
 						<options>
 							<option label="231">None</option>
-							<option>Low</option>
-							<option>Medium</option>
-							<option>High</option>
-							<option>Very High</option>
+							<option label="30029">Low</option>
+							<option label="30030">Medium</option>
+							<option label="30031">High</option>
+							<option label="30032">Very High</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
