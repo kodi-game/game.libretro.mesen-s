@@ -81,6 +81,78 @@ msgctxt "#30014"
 msgid "Use HLE coprocessor emulation"
 msgstr ""
 
+msgctxt "#30015"
+msgid "Composite (Blargg)"
+msgstr ""
+
+msgctxt "#30016"
+msgid "S-Video (Blargg)"
+msgstr ""
+
+msgctxt "#30017"
+msgid "RGB (Blargg)"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Monochrome (Blargg)"
+msgstr ""
+
+msgctxt "#30019"
+msgid "NTSC"
+msgstr ""
+
+msgctxt "#30020"
+msgid "PAL"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Game Boy"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Game Boy Color"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Super Game Boy"
+msgstr ""
+
+msgctxt "#30024"
+msgid "8px"
+msgstr ""
+
+msgctxt "#30025"
+msgid "16px"
+msgstr ""
+
+msgctxt "#30026"
+msgid "No Stretching"
+msgstr ""
+
+msgctxt "#30027"
+msgid "4:3"
+msgstr ""
+
+msgctxt "#30028"
+msgid "16:9"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Low"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Medium"
+msgstr ""
+
+msgctxt "#30031"
+msgid "High"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Very High"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Einstellungen"
