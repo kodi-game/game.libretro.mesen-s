@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mesen-s\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-06-03 20:20i\n"
-"PO-Revision-Date: 2025-10-27 07:29+0000\n"
+"PO-Revision-Date: 2026-11-02 20:48+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mesen-s/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - SNES / SFC / Game Boy / Color (Mesen-S)"
@@ -45,7 +45,6 @@ msgctxt "#30005"
 msgid "Vertical Overscan"
 msgstr "Vertikal överskanning"
 
-#, fuzzy
 msgctxt "#30006"
 msgid "Horizontal Overscan"
 msgstr "Horisontell överskanning"
@@ -54,15 +53,13 @@ msgctxt "#30007"
 msgid "Aspect Ratio"
 msgstr "Bildförhållande"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "Blend Hi-Res Modes"
-msgstr "Blanda Hi-Res-lägen"
+msgstr "Blanda lägen med hög upplösning"
 
-#, fuzzy
 msgctxt "#30009"
 msgid "Cubic Interpolation (Audio)"
-msgstr "Kubisk interpolation (ljud)"
+msgstr "Kubisk interpolering (ljud)"
 
 msgctxt "#30010"
 msgid "Overclock"
@@ -72,92 +69,89 @@ msgctxt "#30011"
 msgid "Overclock Type"
 msgstr "Typ av överklockning"
 
-#, fuzzy
 msgctxt "#30012"
 msgid "Super FX Clock Speed"
-msgstr "Super FX Klockhastighet"
+msgstr "Super FX-klockfrekvens"
 
-#, fuzzy
 msgctxt "#30013"
 msgid "Default power-on state for RAM"
-msgstr "Standardtillstånd för påslagning av RAM"
+msgstr "Standardtillstånd vid påslagning för RAM"
 
-#, fuzzy
 msgctxt "#30014"
 msgid "Use HLE coprocessor emulation"
-msgstr "Använd HLE coprocessor-emulering"
+msgstr "Använd HLE-samprocessoremulering"
 
 msgctxt "#30015"
 msgid "Composite (Blargg)"
-msgstr ""
+msgstr "Komposit (Blargg)"
 
 msgctxt "#30016"
 msgid "S-Video (Blargg)"
-msgstr ""
+msgstr "S-video (Blargg)"
 
 msgctxt "#30017"
 msgid "RGB (Blargg)"
-msgstr ""
+msgstr "RGB (Blargg)"
 
 msgctxt "#30018"
 msgid "Monochrome (Blargg)"
-msgstr ""
+msgstr "Monokrom (Blargg)"
 
 msgctxt "#30019"
 msgid "NTSC"
-msgstr ""
+msgstr "NTSC"
 
 msgctxt "#30020"
 msgid "PAL"
-msgstr ""
+msgstr "PAL"
 
 msgctxt "#30021"
 msgid "Game Boy"
-msgstr ""
+msgstr "Game Boy"
 
 msgctxt "#30022"
 msgid "Game Boy Color"
-msgstr ""
+msgstr "Game Boy Color"
 
 msgctxt "#30023"
 msgid "Super Game Boy"
-msgstr ""
+msgstr "Super Game Boy"
 
 msgctxt "#30024"
 msgid "8px"
-msgstr ""
+msgstr "8 bildpunkter"
 
 msgctxt "#30025"
 msgid "16px"
-msgstr ""
+msgstr "16 bildpunkter"
 
 msgctxt "#30026"
 msgid "No Stretching"
-msgstr ""
+msgstr "Ingen sträckning"
 
 msgctxt "#30027"
 msgid "4:3"
-msgstr ""
+msgstr "4:3"
 
 msgctxt "#30028"
 msgid "16:9"
-msgstr ""
+msgstr "16:9"
 
 msgctxt "#30029"
 msgid "Low"
-msgstr ""
+msgstr "Låg"
 
 msgctxt "#30030"
 msgid "Medium"
-msgstr ""
+msgstr "Medel"
 
 msgctxt "#30031"
 msgid "High"
-msgstr ""
+msgstr "Hög"
 
 msgctxt "#30032"
 msgid "Very High"
-msgstr ""
+msgstr "Mycket hög"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
